@@ -24,7 +24,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/styles.css",
+              "./node_modules/ngx-toastr/toastr.css"
             ],
             "scripts": []
           },
@@ -119,6 +121,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ang-app"
+    }
+  },
+  "defaultProject": "ang-app",
+  "cli": {
+    "analytics": "561b27e7-0d16-4587-bcaa-608ea7526921"
+  }
 }

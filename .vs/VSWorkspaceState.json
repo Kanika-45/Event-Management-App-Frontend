@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\post",
+    "\\src\\app\\post\\create-post",
+    "\\src\\app\\post\\update-post",
+    "\\src\\app\\post\\view-post",
+    "\\src\\app\\shared",
+    "\\src\\app\\shared\\side-bar",
+    "\\src\\assets",
+    "\\src\\environments"
+  ],
+  "SelectedNode": "\\src\\app\\post\\view-post\\view-post.component.html",
+  "PreviewInSolutionExplorer": false
+}
